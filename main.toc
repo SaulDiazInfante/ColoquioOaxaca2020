@@ -1,0 +1,6 @@
+\beamer@sectionintoc {2}{Introduction}{8}{0}{1}
+\beamer@sectionintoc {3}{Deterministic optimal policies}{29}{0}{2}
+\beamer@sectionintoc {4}{Existence of deterministic optimal Policies}{36}{0}{3}
+\beamer@sectionintoc {5}{Characterization of optimal policies}{41}{0}{4}
+\beamer@sectionintoc {6}{Numeric Results}{46}{0}{5}
+\beamer@sectionintoc {7}{Perspectives}{52}{0}{6}
